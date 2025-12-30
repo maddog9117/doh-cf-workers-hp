@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: 0BSD
 
-const doh = 'https://security.cloudflare-dns.com/dns-query'
-const dohjson = 'https://security.cloudflare-dns.com/dns-query'
+const doh = 'https://dns.controld.com/efyyo1m52e'
+const dohjson = 'https://dns.controld.com/efyyo1m52e'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
 const path = ''; // default allow all, must start with '/' if specified, eg. "/dns-query"
